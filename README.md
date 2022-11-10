@@ -36,6 +36,6 @@ Sinta-se livre para me mandar uma mensagem caso perceba algum ponto onde posso m
 
 Mateus Costa - cl.mateuscosta@gmail.com
 
-Veja esse projeto: [Space Cream](https://clmateus.github.io/Space-Cream)
+Veja esse projeto na web: [Space Cream](https://clmateus.github.io/Space-Cream)
 
 <p align="right">(<a href="#readme-top">Voltar ao início</a>)</p>
