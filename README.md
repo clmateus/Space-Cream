@@ -34,9 +34,9 @@ Sinta-se livre para me mandar uma mensagem caso perceba algum ponto onde posso m
 
 ## Contato
 
-👨🏻‍💻 Mateus Costa<br/>
-cl.mateuscosta@gmail.com<br/>
-[![LinkedIn][linkedin-shield]][linkedin-url]
+👨🏻‍💻 Mateus Costa
+* cl.mateuscosta@gmail.com
+* [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Veja esse projeto na web: [Space Cream](https://clmateus.github.io/Space-Cream)
 
