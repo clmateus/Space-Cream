@@ -9,7 +9,9 @@
   <h3 align="center">Space Cream</h3>
 
   <p align="center">
-    Uma página de uma sorveteria!
+    Uma página de uma sorveteria.
+    <br />
+    <a href="https://clmateus.github.io/Space-Cream" />Veja esse projeto na Web!</a>
   </p>
 </div>
 
