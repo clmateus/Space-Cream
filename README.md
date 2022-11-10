@@ -39,6 +39,8 @@ Tente redimensionar o tamanho da janela do seu navegador. Veja como o layout mud
 
 Recarregue a página e veja as animações no logo e nas imagens de sorvete. Existem animações diferentes para os diferentes tamanhos de tela.
 
+Na versão desktop existem animações nas imagens de sorvete. Basta passar o mouse por cima delas e você poderá visualizá-las.
+
 ## Contato
 
 ### Mateus Costa 👨🏻‍💻
