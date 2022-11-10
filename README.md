@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/clmateus/Space-Cream">
-    <img src="./images/logo1.png" alt="Logo" width="80" height="80">
+    <img src="./images/logo1.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Space Cream</h3>
