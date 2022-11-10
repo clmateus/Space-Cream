@@ -2,7 +2,7 @@
 
 Uma página para uma loja de sorvetes.
 
-#Tecnologias Usadas
+# Tecnologias Usadas
 <ul>
 <li>HTML</li>
 <li>CSS</li>
