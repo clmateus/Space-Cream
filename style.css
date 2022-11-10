@@ -1,6 +1,8 @@
 :root {
   --ff-heading: "Staatliches", cursive;
   --ff-body: "Palanquin", sans-serif;
+  --ff-heading-desktop: 'Roboto', sans-serif;
+  --ff-body-desktop: 'Open Sans', sans-serif;
 
   --gray-800: #8e9aaf;
   --gray-300: #cbc0d3;
@@ -48,10 +50,12 @@ header h1 {
 }
 
 .page {
-  max-width: 33rem;
   margin: 0 auto;
   padding: 1.4rem 0;
-  
+}
+
+header p {
+  display: none;
 }
 
 main p {
@@ -88,6 +92,10 @@ main p {
   animation: downtop 700ms ease;
 }
 
+footer {
+  visibility: hidden;
+}
+
 @keyframes topdown {
   0% {
     opacity: 0;
@@ -115,5 +123,124 @@ main p {
 @keyframes rotation {
   0%{
     transform: rotate(360deg);
+  }
+}
+
+@media (min-width: 1280px) {
+  body {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-areas:
+    "A B"
+    "A C";
+    justify-content: start;
+    align-items: center;
+    background: var(--white);
+  }
+
+  .page main{
+    grid-area: B;
+    width: 102.4rem;
+    margin-top: 6.4rem;
+    margin-left: 2.0rem;
+  } 
+
+  header {
+    width: 37.7rem;
+    height: 100vh;
+    grid-area: A;
+  }
+
+  header h1 {
+    padding: 2.1rem;
+    font-size: 4.8rem;
+  }
+
+  header p {
+    display: inline-block;
+    font-family: var(--ff-heading-desktop);
+    font-size: 2rem;
+    line-height: 2.0rem;
+    color: var(--white);
+    margin: 3.2rem 5.4rem;
+    text-align: center;
+  }
+
+  main p {
+    display: none;
+  }
+
+  .page main{
+    display: grid;
+    grid-template-areas: 
+    "A B E"
+    "D B F"
+    "D C F";
+    gap: 3.2rem;
+  }
+
+  body > div > main > div:nth-child(2){
+    grid-area: A;
+    
+  }
+
+  body > div > main > div:nth-child(3){
+    grid-area: B;
+   
+  }
+
+  body > div > main > div:nth-child(4){
+    grid-area: C;
+  }
+
+  body > div > main > div:nth-child(5){
+    grid-area: D;
+
+  }
+
+  body > div > main > div:nth-child(6){
+    grid-area: E;
+  }
+
+  body > div > main > div:nth-child(7){
+    grid-area: F;
+  }
+
+  .card {
+    margin: 0 auto;
+  }
+
+  .card h2 {
+    opacity: 0;
+    animation: none;
+  }
+
+  .card:hover h2 {
+    animation: appear 700ms;
+  }
+
+  footer {
+    text-align: center;
+    visibility: visible;
+    margin: 0 auto;
+    font-family: var(--ff-body-desktop);
+    font-size: 1.4rem;
+    grid-area: C;
+  }
+
+  footer a {
+    color: var(--fc-gray);
+    text-decoration: none;
+    font-weight: 700;
+  }
+  
+  @keyframes appear {
+    0% {
+      opacity: 0;
+    }
+
+    100% {
+      opacity: 1;
+    }
   }
 }
