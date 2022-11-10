@@ -35,6 +35,7 @@ Sinta-se livre para me mandar uma mensagem caso perceba algum ponto onde posso m
 ## Contato
 
 Mateus Costa - cl.mateuscosta@gmail.com
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 Veja esse projeto na web: [Space Cream](https://clmateus.github.io/Space-Cream)
 
