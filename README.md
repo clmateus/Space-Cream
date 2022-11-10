@@ -18,6 +18,8 @@
 
 Uma página completamente responsiva e repleta de animações feitas com CSS.
 
+<img src="./images/desktop-img.png" />
+
 Neste projeto pude desenvolver algumas habilidades como:
 * HTML semântico
 * CSS responsivo
