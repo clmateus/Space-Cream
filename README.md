@@ -51,7 +51,6 @@ Na versão desktop existem animações nas imagens de sorvete. Basta passar o mo
 * cl.mateuscosta@gmail.com
 * [![LinkedIn][linkedin-shield]][linkedin-url]
 * [![Github][github-shield]][github-url]
-* Veja esse projeto na web: [Space Cream](https://clmateus.github.io/Space-Cream)
 
 <p align="right">(<a href="#readme-top">Voltar ao início</a>)</p>
 
