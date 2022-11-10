@@ -44,10 +44,12 @@ Recarregue a página e veja as animações no logo e nas imagens de sorvete. Exi
 ### Mateus Costa 👨🏻‍💻
 * cl.mateuscosta@gmail.com
 * [![LinkedIn][linkedin-shield]][linkedin-url]
-
-Veja esse projeto na web: [Space Cream](https://clmateus.github.io/Space-Cream)
+* [![Github][github-shield]][github-url]
+* Veja esse projeto na web: [Space Cream](https://clmateus.github.io/Space-Cream)
 
 <p align="right">(<a href="#readme-top">Voltar ao início</a>)</p>
 
+[github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[github-url]: https://github.com/clmateus
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/clmateus
